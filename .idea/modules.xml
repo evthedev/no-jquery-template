@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../frontend-boilerplate/.idea/Frontend-dev.iml" filepath="$PROJECT_DIR$/../frontend-boilerplate/.idea/Frontend-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../no-jquery-template/.idea/Frontend-dev.iml" filepath="$PROJECT_DIR$/../no-jquery-template/.idea/Frontend-dev.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,31 @@
+.header {
+  &-content {
+    position: absolute;
+    z-index: 10;
+  }
+}
+
+a {
+  &.iis-previous-nav, &.iis-next-nav {
+    position: absolute;
+    top: 50%;
+    z-index: 100;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  &.iis-previous-nav {
+    left: 0;
+    &:before {
+      content: '<';
+
+    }
+  }
+  &.iis-next-nav {
+    right: 0;
+    &:before {
+      content: '>';
+
+    }
+  }
+}
