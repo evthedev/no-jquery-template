@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".button-collapse").sideNav();$(".parallax").parallax()});$(".btn").click(function(){change_color()});function change_color(){$(".page-title").css("color","orange")}
