@@ -20,6 +20,10 @@
   },
   "author": "Ev Ooi",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://gitlab.com/evthedev/no-jquery-template"
+  },
   "devDependencies": {
     "autoprefixer": "^6.6.0",
     "bootstrap": "^3.3.7",

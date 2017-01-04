@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-bootstrap.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index-bootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../no-jquery-template/index-bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -93,12 +93,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../no-jquery-template/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="375">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <folding>
+                <marker date="1483539656000" expanded="true" signature="0:1499" ph="{&quot;name&quot;: &quot;test-app-1&quot;...}" />
+                <marker date="1483539656000" expanded="true" signature="118:1006" ph="{&quot;scss&quot;: &quot;node-sass --output-style compressed -o dist/css src/scss&quot;...}" />
+                <marker date="1483539656000" expanded="true" signature="1066:1148" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+                <marker date="1483539656000" expanded="true" signature="1171:1497" ph="{&quot;autoprefixer&quot;: &quot;^6.6.0&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +154,8 @@
         <option value="$PROJECT_DIR$/../frontend-boilerplate/readme.md" />
         <option value="$PROJECT_DIR$/../no-jquery-template/dist/js/app.min.js" />
         <option value="$PROJECT_DIR$/../no-jquery-template/readme.md" />
-        <option value="$PROJECT_DIR$/../no-jquery-template/package.json" />
         <option value="$PROJECT_DIR$/../no-jquery-template/index-bootstrap.html" />
+        <option value="$PROJECT_DIR$/../no-jquery-template/package.json" />
       </list>
     </option>
   </component>
@@ -384,16 +389,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482480557223</updated>
-      <workItem from="1482480559165" duration="23029000" />
+      <workItem from="1482480559165" duration="24114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23029000" />
+    <option name="totallyTimeSpent" value="24114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1366" height="824" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -402,7 +407,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -525,19 +530,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../no-jquery-template/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../no-jquery-template/index-bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="103" selection-start-line="17" selection-start-column="103" selection-end-line="17" selection-end-column="103" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../no-jquery-template/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <marker date="1483539656000" expanded="true" signature="0:1499" ph="{&quot;name&quot;: &quot;test-app-1&quot;...}" />
+            <marker date="1483539656000" expanded="true" signature="118:1006" ph="{&quot;scss&quot;: &quot;node-sass --output-style compressed -o dist/css src/scss&quot;...}" />
+            <marker date="1483539656000" expanded="true" signature="1066:1148" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1483539656000" expanded="true" signature="1171:1497" ph="{&quot;autoprefixer&quot;: &quot;^6.6.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
