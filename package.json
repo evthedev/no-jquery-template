@@ -15,7 +15,8 @@
     "build:all": "npm run build:css && npm run build:js && npm run build:images",
     "watch:css": "onchange 'src/scss/*.scss' -- npm run build:css",
     "watch:js": "onchange 'src/js/*.js' -- npm run build:js",
-    "watch:all": "parallelshell 'npm run serve' 'npm run watch:css' 'npm run watch:js'"
+    "watch:all": "parallelshell 'npm run serve' 'npm run watch:css' 'npm run watch:js'",
+    "start": "node index.js"
   },
   "author": "Ev Ooi",
   "license": "ISC",
