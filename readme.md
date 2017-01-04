@@ -22,6 +22,7 @@ _**Feature roadmap:**_
 <li>Parallax</li>
 <li>Gallery lightbox</li>
 <li>Materialize css</li>
+<li>Scroll Reveal</li>
 </ul><br/>
 
 ### **Requirements**
