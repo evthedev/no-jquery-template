@@ -43,4 +43,4 @@ _**Feature roadmap:**_
 <pre><code>$ npm run watch:all</code></pre>
 <br/><br/>
 
-Report any issues <a href="https://gitlab.com/evthedev/no-jquery-template/issues">here</a>.<br/><br/>
+Report any issues or contribute ideas <a href="https://github.com/evthedev/no-jquery-template/issues">here</a>.<br/><br/>
