@@ -7,7 +7,7 @@ Also I got tired of using build tools (Gulp and Grunt), so this template uses NP
 ### **Demo**
 <hr>
 
-<del>Demo link</del><br/>
+<a href="http://dev-stage.net/no-jquery-template-cpanel/index-bootstrap.html" target="_blank">Demo link</a><br/>
 
 ### **Features included:**
 <hr>
